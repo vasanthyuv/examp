@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 welcome
 1st line
+=======
+welcome
+>>>>>>> 5e6d18d (first commit)
